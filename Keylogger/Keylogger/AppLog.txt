@@ -1,0 +1,9 @@
+[28.07.2018 22:23::2]
+Hook Started... Timer Started...
+
+[23.08.2018 13:58:29]
+Hook Started... Timer Started...
+
+[23.08.2018 13:59:59]
+File creation was not successful. Keylog '[Left Ctrl][Left Alt][Delete][/Left Alt][/Left Ctrl]'
+

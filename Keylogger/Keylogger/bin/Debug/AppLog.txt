@@ -1,0 +1,60 @@
+[23.08.2018 14:20:47]
+Hook Started... Timer Started...
+
+[23.08.2018 14:21:17]
+File creation was not successful. Keylog '[N][O][T][E][P][A][D][Enter]
+[Left Shift][H][/Left Shift][E][L][L][O][OEM_COMMA (< ,)][Space][Left Shift][M][/Left Shift][Y][Space][N][A][M][E][Space][I][S][Space][Left Shift][R][/Left Shift][I][C][H][A][R][D][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][F][U][C][K][/Left Shift][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D1][D2][D3][D4][D5][/Left Shift][D1][D2][D3][D4][D5][Space][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D][/Left Shift][O][P][E][Space][Left Shift][A][/Left Shift][S][Space][Left Shift][F][/Left Shift][U][C][K]'
+
+[23.08.2018 14:21:47]
+File creation was not successful. Keylog '[N][O][T][E][P][A][D][Enter]
+[Left Shift][H][/Left Shift][E][L][L][O][OEM_COMMA (< ,)][Space][Left Shift][M][/Left Shift][Y][Space][N][A][M][E][Space][I][S][Space][Left Shift][R][/Left Shift][I][C][H][A][R][D][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][F][U][C][K][/Left Shift][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D1][D2][D3][D4][D5][/Left Shift][D1][D2][D3][D4][D5][Space][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D][/Left Shift][O][P][E][Space][Left Shift][A][/Left Shift][S][Space][Left Shift][F][/Left Shift][U][C][K][G][M][A][I][L][Enter]
+[G][O][O][G][L][E][Enter]
+'
+
+[23.08.2018 14:22:17]
+File creation was not successful. Keylog '[N][O][T][E][P][A][D][Enter]
+[Left Shift][H][/Left Shift][E][L][L][O][OEM_COMMA (< ,)][Space][Left Shift][M][/Left Shift][Y][Space][N][A][M][E][Space][I][S][Space][Left Shift][R][/Left Shift][I][C][H][A][R][D][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][F][U][C][K][/Left Shift][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D1][D2][D3][D4][D5][/Left Shift][D1][D2][D3][D4][D5][Space][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D][/Left Shift][O][P][E][Space][Left Shift][A][/Left Shift][S][Space][Left Shift][F][/Left Shift][U][C][K][G][M][A][I][L][Enter]
+[G][O][O][G][L][E][Enter]
+[F12][F11]'
+
+[23.08.2018 15:19:25]
+File creation was not successful. Keylog '[N][O][T][E][P][A][D][Enter]
+[Left Shift][H][/Left Shift][E][L][L][O][OEM_COMMA (< ,)][Space][Left Shift][M][/Left Shift][Y][Space][N][A][M][E][Space][I][S][Space][Left Shift][R][/Left Shift][I][C][H][A][R][D][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][F][U][C][K][/Left Shift][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D1][D2][D3][D4][D5][/Left Shift][D1][D2][D3][D4][D5][Space][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D][/Left Shift][O][P][E][Space][Left Shift][A][/Left Shift][S][Space][Left Shift][F][/Left Shift][U][C][K][G][M][A][I][L][Enter]
+[G][O][O][G][L][E][Enter]
+[F12][F11][Space][F11]'
+
+[23.08.2018 15:19:55]
+File creation was not successful. Keylog '[N][O][T][E][P][A][D][Enter]
+[Left Shift][H][/Left Shift][E][L][L][O][OEM_COMMA (< ,)][Space][Left Shift][M][/Left Shift][Y][Space][N][A][M][E][Space][I][S][Space][Left Shift][R][/Left Shift][I][C][H][A][R][D][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][F][U][C][K][/Left Shift][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D1][D2][D3][D4][D5][/Left Shift][D1][D2][D3][D4][D5][Space][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D][/Left Shift][O][P][E][Space][Left Shift][A][/Left Shift][S][Space][Left Shift][F][/Left Shift][U][C][K][G][M][A][I][L][Enter]
+[G][O][O][G][L][E][Enter]
+[F12][F11][Space][F11][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+'
+
+[23.08.2018 15:20:25]
+File creation was not successful. Keylog '[N][O][T][E][P][A][D][Enter]
+[Left Shift][H][/Left Shift][E][L][L][O][OEM_COMMA (< ,)][Space][Left Shift][M][/Left Shift][Y][Space][N][A][M][E][Space][I][S][Space][Left Shift][R][/Left Shift][I][C][H][A][R][D][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][F][U][C][K][/Left Shift][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D1][D2][D3][D4][D5][/Left Shift][D1][D2][D3][D4][D5][Space][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D][/Left Shift][O][P][E][Space][Left Shift][A][/Left Shift][S][Space][Left Shift][F][/Left Shift][U][C][K][G][M][A][I][L][Enter]
+[G][O][O][G][L][E][Enter]
+[F12][F11][Space][F11][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+'
+
+[23.08.2018 15:20:55]
+File creation was not successful. Keylog '[N][O][T][E][P][A][D][Enter]
+[Left Shift][H][/Left Shift][E][L][L][O][OEM_COMMA (< ,)][Space][Left Shift][M][/Left Shift][Y][Space][N][A][M][E][Space][I][S][Space][Left Shift][R][/Left Shift][I][C][H][A][R][D][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][F][U][C][K][/Left Shift][Enter]
+[Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D1][D2][D3][D4][D5][/Left Shift][D1][D2][D3][D4][D5][Space][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][Left Shift][D][/Left Shift][O][P][E][Space][Left Shift][A][/Left Shift][S][Space][Left Shift][F][/Left Shift][U][C][K][G][M][A][I][L][Enter]
+[G][O][O][G][L][E][Enter]
+[F12][F11][Space][F11][G][M][A][I][L][OEM_PERIOD (> .)][C][O][M][Enter]
+'
+
