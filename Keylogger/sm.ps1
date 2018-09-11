@@ -57,11 +57,11 @@ catch
 try {
     Send-EMail 
         -attachment $Att 
-        -To "richard.a.anderson@gmail.com"  
+        -To ""  
         -Body $Body 
         -Subject $Subj 
-        -password "HardCore22@@"
-        -From "richard.a.anderson@gmail.com"
+        -password ""
+        -From ""
 }
 catch{
     exit 4;

@@ -11,9 +11,9 @@
 #define SCRIPT_NAME "sm.ps1"
 
 namespace Mail{
-    #define X_EM_TO "richard.a.anderson@gmail.com"
-    #define X_EM_FROM "richard.a.anderson@gmail.com"
-    #define X_EM_PASS "HardCore22@@"
+    #define X_EM_TO ""
+    #define X_EM_FROM ""
+    #define X_EM_PASS ""
 
     const std::string &PowerShellScript =
 "Param( \r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
@@ -80,6 +80,7 @@ namespace Mail{
 
         if(!script)
             return false;
+
 
         script.close();
         return true;
